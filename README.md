@@ -23,10 +23,9 @@
 ## How to add 
 ```
 "pokime": {
-    "command": "uv",
+    "command": "uvx",
     "args": [
-        "run",
-        "pokime.py"
+        "pokime"
       ]
     }
 ```
